@@ -1,3 +1,11 @@
+r"""
+    Implementation of IASIDE paper.
+
+    Roisin Luo.
+    University of Galway.
+
+"""
+
 import numpy as np
 from tqdm.auto import tqdm
 
