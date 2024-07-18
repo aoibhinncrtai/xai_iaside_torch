@@ -4,6 +4,7 @@ We will update the code soon.
 
 # Citation
 
+```txt
 @article{
 luo2024interpreting,
 title={Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition},
@@ -14,3 +15,4 @@ year={2024},
 url={https://openreview.net/forum?id=uQYomAuo7M},
 note={}
 }
+```
